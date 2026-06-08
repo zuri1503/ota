@@ -1,1 +1,15 @@
+Device: OnePlus 12R (aston)
+Device, kernel, common trees by LineageOS
 
+====================
+     08-06-2026
+====================
+
+* Fixed Bluetooth not working
+* Improved auto brightness nits
+
+====================
+     06-06-2026
+====================
+
+* Initial build
