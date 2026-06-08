@@ -1,5 +1,5 @@
 Device: OnePlus Ace 3 (astonc)
-Team Aston: elpaablo, REV3NT3CH
+Device, kernel, common trees by LineageOS
 
 ====================
      08-06-2026
@@ -13,8 +13,3 @@ Team Aston: elpaablo, REV3NT3CH
 ====================
 
 * Initial build
-
-====================
-     Credits
-====================
-* Thanks LineageOS Team for device, kernel, common tree
