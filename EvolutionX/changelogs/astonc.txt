@@ -8,6 +8,7 @@ Device, kernel, common trees by LineageOS
 * Fixed Bluetooth not working
 * Increase auto brightness nits
 * Enable OTA Updater
+* Add OplusIR Remote apk
 
 ====================
      06-06-2026
