@@ -2,11 +2,12 @@ Device: OnePlus Ace 3 (astonc)
 Device, kernel, common trees by LineageOS
 
 ====================
-     08-06-2026
+     09-06-2026
 ====================
 
 * Fixed Bluetooth not working
-* Improved auto brightness nits
+* Increase auto brightness nits
+* Enable OTA Updater
 
 ====================
      06-06-2026
