@@ -12,7 +12,7 @@ Clean flash:
        $ fastboot flash recovery recovery.img
 3. Reboot to recovery
 4. Put the recovery in sideload mode and push the ROM zip
-       $ adb sideload AlphaDroid*.zip
+       $ adb -d sideload EvolutionX*.zip
 5. Format data/Factory reset
 6. Reboot to system
 
